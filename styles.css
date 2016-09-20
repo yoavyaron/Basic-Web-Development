@@ -1,36 +1,36 @@
 html {
-	background: darkseagreen;
+  background: darkseagreen;
 }
 
 .personal-photo {
-	float:left;
-	padding-right: 25px;
-	width: 125px;
-	height: 125px;
+  float:left;
+  padding-right: 25px;
+  width: 125px;
+  height: 125px;
 }
 
 header > p {
-	font-style: italic;
+  font-style: italic;
 }
 
 nav ul {
-	list-style-type: none;
+  list-style-type: none;
 }
 
 nav a {
-	text-decoration: none;
+  text-decoration: none;
 }
 
 nav a:hover {
-	text-decoration: underline;
-	color: #191970;
+  text-decoration: underline;
+  color: #191970;
 }
 
 #work-experience li em {
-	font-style: normal;
-	font-weight: bold;
+  font-style: normal;
+  font-weight: bold;
 }
 
 #work-experience li p {
-	margin-top: 0px;
+  margin-top: 0px;
 }
