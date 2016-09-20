@@ -1,2 +1,2 @@
-# Basic-Web-Development
-Code for a simple website. Used by VC++ to help teach HTML &amp; CSS.
+# Basic Web Development Tutorial
+This repo has the most basic HTML and CSS page necessary to get started with web development.
